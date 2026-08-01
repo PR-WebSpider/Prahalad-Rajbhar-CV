@@ -28,7 +28,7 @@
 
 <br>
 
-> **⚠️ Before this looks right:** replace `YOUR-USERNAME` in the three buttons above
+> **⚠️ Before this looks right:** replace `PR-WebSpider` in the three buttons above
 > with your actual GitHub username once the repo is live, so the buttons point at the
 > real site. Same goes for the `og:url` note at the very bottom of this file.
 
